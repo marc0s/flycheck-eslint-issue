@@ -1,0 +1,35 @@
+Syntax checkers for buffer index.js in js2-mode:
+
+  javascript-eslint (disabled)
+    - may enable:  Automatically disabled!
+    - executable:  Found at /home/marcos/.nvm/v4.6.1/bin/eslint
+    - config file: missing
+
+  javascript-jshint (disabled)
+    - may enable:         Automatically disabled!
+    - executable:         Not found
+    - configuration file: Not found
+
+  javascript-gjslint (disabled)
+    - may enable:         Automatically disabled!
+    - executable:         Not found
+    - configuration file: Not found
+
+  javascript-jscs (disabled)
+    - may enable:         Automatically disabled!
+    - executable:         Not found
+    - configuration file: Not found
+
+  javascript-standard (disabled)
+    - may enable: Automatically disabled!
+    - executable: Not found
+
+Flycheck Mode is enabled.  Use C-u C-c ! x to enable disabled
+checkers.
+
+--------------------
+
+Flycheck version: 31snapshot (package: 20161030.316)
+Emacs version:    25.1.1
+System:           x86_64-pc-linux-gnu
+Window system:    x
